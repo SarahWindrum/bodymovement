@@ -1,4 +1,4 @@
-# bodymovement
+# BodyMovement
 MSc Analysis of Machine Learning Potential for Self-Care
 
 The general population have a heightened awareness of the importance of well-being but a lack of understanding in how to manage their own care. The opportunity for machine learning in areas of medicine like diagnostics and clinical trials is well documented. Yet when we see that obesity in the West Midlands alone costs the economy over £4 billion every year, it suggests we should look in other areas of health for new solutions. 
